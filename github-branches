@@ -1,0 +1,17 @@
+$ git branch -vv
+  bug-fix-typo ae79e74 [origin/bug-fix-typo] Fix typo in README
+* main         ae79e74 [origin/main: ahead 1] Fix typo in README
+
+$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	bug-fix-revert
+	forked-repo
+	github-branches
+	merge_branches
+
+nothing added to commit but untracked files present (use "git add" to track)
